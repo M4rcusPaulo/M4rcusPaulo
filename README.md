@@ -1,17 +1,29 @@
 <h1 align="center">Hello World</h1>
+<h4>Hi 👋, I'm Marcus!.</h4>
+<!-- Presentation -->
+<p>
+  
+- 👨‍💻 Developer in career transition
 
+- 🌐 Front-end: HTML, CSS, JavaScript, React
 
-<p align="center">Hello 👋! My name is Marcus Paulo and I'm in career transition.</p>
+- 🚀 Towards full-stack
 
-
-<h2 align="left">About me</h2>
-
-
-<p align="left">📚 Currently studying Front-End and intending to become a Full-Stack developer.<br>🛠️ Ongoing projects: Inventory control and installment sales system for small businesses</p>
+- 📦 Current project: SIGEV – Integrated Virtual Inventory Management System
+</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcuspaulo.95/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-paulo-caetano-b561a62b7/)
 
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬I'm a telecommunications technician specializing in fiber optics. I'm currently transitioning my career to web development. I'm training in front-end HTML, CSS, JavaScript, and React, with the goal of becoming a full-stack developer. I'm currently developing my first web system
+
+  - ⭐ I love learning new things, discovering interesting facts, listening to good stories, exercising, and having fun playing games.
+I believe all of this helps me keep my mind active and approach challenges with more creativity.
+</details>
 
 <h2 align="left">Skills</h2>
 
